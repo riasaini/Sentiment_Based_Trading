@@ -2,6 +2,8 @@
 
 This project explores trading strategies by modeling sentiment extracted from earnings call transcripts alongside traditional technical indicators. The goal is to assess whether sentiment-aware models can enhance portfolio performance beyond baseline quantitative strategies.
 
+> **Note:** This project is a work in progress. Model performance, feature sets, and strategy comparisons are actively being refined. Future iterations may include enhanced labeling techniques, additional sentiment data sources, or alternative model architectures.
+
 ## Strategies Implemented
 ### 1. Quantitative Strategy
 - Inputs: Technical indicators (RSI, MACD, volatility, SMA, returns)
